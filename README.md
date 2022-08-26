@@ -19,9 +19,11 @@ A simple Python program to spam webhooks.
 ### Requirements
 
 py -m pip install PyFade
+
 py -m pip install discord-webhook
 
 #### Or
 
 pip install discord-webhook
+
 pip install pyfade
