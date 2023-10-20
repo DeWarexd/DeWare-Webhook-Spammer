@@ -1,30 +1,34 @@
-# Discord Webhook Spammer
+# ⚠️ DeWare Webhook spammer
 
-[Discord](https://discord.com/invite/HXCxmc4G4J) | [YouTube](https://www.youtube.com/channel/UC8iAdwlggk1CkNbGiIEPNVQ)
+a simple python code that spams messages to discord webhook.
 
-A simple Python program to spam webhooks.
+**[Discord](https://discord.gg/FQkRFbzY6E)**
 
-## Features
-- [X] Custom Spam text
-- [X] Custom Webhook Username
-- [X] Custom Webhook Avatar
-- [X] Custom Spam Interval
-- [X] Custom Spam Count
+## 🔧 Installation
 
-![image](https://user-images.githubusercontent.com/83973611/186880884-cc35ba6a-98f4-41ae-bded-1fb92a792df0.png)
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install needed packages.
 
-## How to use
+```bash
+pip install discord_webhook 
+pip install fade 
+```
 
-* Enter your Webhok Url to WebHook.txt
+## 💡 Features
+- **Multiple text**
+- **Custom username, avatar**
+- **Custom interval**
 
-### Requirements
+## 🎶 How to convert it into exe
 
-py -m pip install PyFade
+```bash
+pip install pyinstaller
+```
 
-py -m pip install discord-webhook
+- go to cmd and execute following command:
+```bash
+pyinstaller main.py --onefile --icon=NONE
+```
 
-#### Or
+## ⚠️ Note
 
-pip install discord-webhook
-
-pip install pyfade
+its a very old project so if it doesnt work idk why / its pyfade update it yourself
