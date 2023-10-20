@@ -1,4 +1,4 @@
-# ⚠️ DeWare Webhook Spammer
+# DeWare Webhook Spammer
 
 a simple python code that spams messages to discord webhook.
 
