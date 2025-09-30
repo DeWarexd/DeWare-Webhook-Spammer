@@ -1,7 +1,7 @@
 # Discord Webhook Spammer
 
 ## 📋 Overview
-DeWare Webhook Spammer is a Python application designed for sending automated messages to Discord webhooks. This tool provides users with the ability to customize message content, sender information, and delivery timing.
+Discord Webhook Spammer is a Python application designed for sending automated messages to Discord webhooks. This tool provides users with the ability to customize message content, sender information, and delivery timing.
 
 ## 🔧 Installation
 To use this application, you'll need to install the required Python packages. Use the package manager [pip](https://pip.pypa.io/en/stable/) for installation:
